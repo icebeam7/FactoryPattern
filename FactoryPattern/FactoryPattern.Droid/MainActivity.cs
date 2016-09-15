@@ -17,6 +17,9 @@ namespace FactoryPattern.Droid
 			base.OnCreate (bundle);
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
+
+            AlertService.Create = () => new AlertServiceAndroid();
+
 			LoadApplication (new FactoryPattern.App ());
 		}
 	}

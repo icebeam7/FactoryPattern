@@ -60,6 +60,8 @@ namespace FactoryPattern.UWP
 
                 Xamarin.Forms.Forms.Init(e);
 
+                AlertService.Create = () => new AlertServiceUWP();
+
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)
                 {
                     //TODO: Load state from previously suspended application

@@ -18,6 +18,9 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		FactoryPattern\FactoryPattern\FactoryPattern.projitems*{47c09271-38af-417c-820c-83747c134f5f}*SharedItemsImports = 13
+		FactoryPattern\FactoryPattern\FactoryPattern.projitems*{578db3ba-daab-421e-9d47-4e841e85bbc6}*SharedItemsImports = 4
+		FactoryPattern\FactoryPattern\FactoryPattern.projitems*{bf9f58a2-050a-4891-adfe-8bc3098ceca8}*SharedItemsImports = 4
+		FactoryPattern\FactoryPattern\FactoryPattern.projitems*{e1f8d5a2-c199-4d07-9fd9-6e71770b9248}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
@@ -259,6 +262,8 @@ Global
 		{E1F8D5A2-C199-4D07-9FD9-6E71770B9248}.AppStore|x86.Build.0 = Release|x86
 		{E1F8D5A2-C199-4D07-9FD9-6E71770B9248}.AppStore|x86.Deploy.0 = Release|x86
 		{E1F8D5A2-C199-4D07-9FD9-6E71770B9248}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E1F8D5A2-C199-4D07-9FD9-6E71770B9248}.Debug|Any CPU.Build.0 = Debug|x86
+		{E1F8D5A2-C199-4D07-9FD9-6E71770B9248}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{E1F8D5A2-C199-4D07-9FD9-6E71770B9248}.Debug|ARM.ActiveCfg = Debug|ARM
 		{E1F8D5A2-C199-4D07-9FD9-6E71770B9248}.Debug|ARM.Build.0 = Debug|ARM
 		{E1F8D5A2-C199-4D07-9FD9-6E71770B9248}.Debug|ARM.Deploy.0 = Debug|ARM
